@@ -13,3 +13,8 @@ https://lukekeely.github.io
 
 - 💬 Want to hire me for frontend web-development?
 - 📫 How to reach me: luke.keely@outlook.com
+
+---
+Now Playing 🎧
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/lukekeely2004)
+---
