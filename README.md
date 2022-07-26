@@ -15,6 +15,3 @@ https://lukekeely.github.io
 - 📫 How to reach me: luke.keely@outlook.com
 
 ---
-Now Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/lukekeely2004)
----
