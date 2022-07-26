@@ -16,7 +16,7 @@ https://lukekeely.github.io
 
 ---
 
-- Check out what I'm listening to
-<br> 🎹 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lukekeely2004&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+- 🎹 Check out what I'm listening to
+<br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lukekeely2004&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
