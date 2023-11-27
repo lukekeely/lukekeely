@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning mobile app design
 
 - ✨ Check out my website! 
-https://lukekeely.github.io
+https://www.polywork.com/luke_keely
 
 - 💬 Want to hire me for frontend web-development?
 - 📫 How to reach me: luke.keely@outlook.com
