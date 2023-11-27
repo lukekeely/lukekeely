@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on model missile guidance systems
-- 🌱 I’m currently learning mobile app design
+- 🌱 I’m currently in my second year at Trinity College Dublin
 
 - ✨ Check out my website! 
 https://www.polywork.com/luke_keely
