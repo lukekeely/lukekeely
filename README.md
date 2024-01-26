@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on model missile guidance systems
+- 🔭 I’m currently working drag vector control (DVC) systems for model rockets
 - 🌱 I’m currently in my second year at Trinity College Dublin
 
 - ✨ Check out my website! 
